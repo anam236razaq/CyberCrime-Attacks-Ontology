@@ -1,1 +1,2 @@
 # CyberCrime-Attacks-Ontology
+Cybercrime refers to an unlawful activity that specifically focus on computers, computer networks, or networked devices as tools or targets for criminal actions. Ontology is a way of describing the semantics of data about the subject. CyberCrime Attacks ontology represents the comprehensive knowledge about different attacks like their best defences, prevention and detection techniques and vulnerabilities. The purpose of ontology is to offer accessible information to individuals who are new to the field, students, and domain experts.  
